@@ -1,0 +1,66 @@
+[
+  {
+    "Id": "11111111-1111-1111-1111-111111111111",
+    "Name": "Laptop",
+    "Price": 150000,
+    "Category": "Electronics",
+    "Description": "High performance laptop",
+    "IsActive": true
+  },
+  {
+    "Id": "22222222-2222-2222-2222-222222222222",
+    "Name": "Smartphone",
+    "Price": 85000,
+    "Category": "Electronics",
+    "Description": "Modern Android smartphone",
+    "IsActive": true
+  },
+  {
+    "Id": "33333333-3333-3333-3333-333333333333",
+    "Name": "Keyboard",
+    "Price": 5000,
+    "Category": "Accessories",
+    "Description": "Mechanical keyboard",
+    "IsActive": true
+  },
+  {
+    "Id": "44444444-4444-4444-4444-444444444444",
+    "Name": "Mouse",
+    "Price": 3000,
+    "Category": "Accessories",
+    "Description": "Wireless computer mouse",
+    "IsActive": true
+  },
+  {
+    "Id": "55555555-5555-5555-5555-555555555555",
+    "Name": "Monitor",
+    "Price": 45000,
+    "Category": "Electronics",
+    "Description": "24 inch LED monitor",
+    "IsActive": true
+  },
+  {
+    "Id": "66666666-6666-6666-6666-666666666666",
+    "Name": "Headphones",
+    "Price": 7000,
+    "Category": "Audio",
+    "Description": "Wireless headphones",
+    "IsActive": true
+  },
+  {
+    "Id": "77777777-7777-7777-7777-777777777777",
+    "Name": "Webcam",
+    "Price": 9000,
+    "Category": "Accessories",
+    "Description": "Full HD webcam",
+    "IsActive": true
+  },
+  {
+    "Id": "88888888-8888-8888-8888-888888888888",
+    "Name": "Printer",
+    "Price": 30000,
+    "Category": "Office",
+    "Description": "Wireless color printer",
+    "IsActive": false
+  }
+]
